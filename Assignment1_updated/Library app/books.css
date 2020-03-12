@@ -1,0 +1,68 @@
+#xyz{
+
+    background-color: black;
+    width:100%;
+}
+
+.frame {
+    height: 200px;
+    width: 200px;
+    overflow: hidden;
+  }
+  .zoomin img {
+    height: 200px;
+    width: 200px;
+    -webkit-transition: all 2s ease;
+    -moz-transition: all 2s ease;
+    -ms-transition: all 2s ease;
+    transition: all 2s ease;
+  }
+  .zoomin img:hover {
+    width: 300px;
+    height: 300px;
+  }
+
+ 
+    .zoomin img {
+      height: 200px;
+      width: 200px;
+      -webkit-transition: all 2s ease;
+      -moz-transition: all 2s ease;
+      -ms-transition: all 2s ease;
+      transition: all 2s ease;
+    }
+    .zoomin img:hover {
+      width: 300px;
+      height: 300px;
+    }
+
+    .frame {
+        height: 200px;
+        width: 200px;
+        overflow: hidden;
+      }
+      .zoomout img {
+        height: 300px;
+        width: 300px;
+        -webkit-transition: all 2s ease;
+        -moz-transition: all 2s ease;
+        -ms-transition: all 2s ease;
+          transition: all 2s ease;
+      }
+      .zoomout img:hover {
+        width: 200px;
+        height: 200px;
+      }
+
+      .zoomout img {
+        height: 300px;
+        width: 300px;
+        -webkit-transition: all 2s ease;
+        -moz-transition: all 2s ease;
+        -ms-transition: all 2s ease;
+          transition: all 2s ease;
+      }
+      .zoomout img:hover {
+        width: 200px;
+        height: 200px;
+      }

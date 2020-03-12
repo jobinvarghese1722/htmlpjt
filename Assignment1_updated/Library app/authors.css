@@ -1,0 +1,17 @@
+#footer{
+    background-color: black;
+    width: 100%;
+}
+
+.zoomout img {
+    height: 600px;
+    width: 500px;
+    -webkit-transition: all 2s ease;
+    -moz-transition: all 2s ease;
+    -ms-transition: all 2s ease;
+      transition: all 2s ease;
+  }
+  .zoomout img:hover {
+    width: 200px;
+    height: 200px;
+  }

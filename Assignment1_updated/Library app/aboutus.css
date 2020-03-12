@@ -1,0 +1,14 @@
+#layer1:hover {
+    background-image: linear-gradient(to left, #ee390f 0%, #f9b700 51%, #ee390f 100%);
+  }
+  
+  #footerr{
+
+background-color: black;
+width:100%;
+
+  }
+
+  #layer2:hover {
+    background-image: linear-gradient(to left, #b2b5c2 0%, #bbbbbb 0%, #bbbbbb 100%);
+  }

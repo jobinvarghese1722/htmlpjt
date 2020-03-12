@@ -1,0 +1,55 @@
+body{
+    background-image: url('images/bc.jpg');
+}
+footer{
+    background-color: black;
+    width:100%;
+    margin-top: 500px;
+}
+
+h1 {
+     color: #7c795d; font-family: 'Trocchi', serif;
+      font-size: 45px; font-weight: normal;
+       line-height: 48px;
+       margin: 0; 
+    text-align: center;
+    }
+
+      
+
+    .test {
+        position: relative;
+        font-family: sans-serif;
+        /* text-transform: uppercase; */
+        font-size: 2em;
+        letter-spacing: 4px;
+        overflow: hidden;
+        background: linear-gradient(90deg, #000, #fff, #000);
+        background-repeat: no-repeat;
+        background-size: 80%;
+        animation: animate 3s linear infinite;
+        text-align: center;
+      }
+      
+      @keyframes animate {
+        0% {
+          background-position: -500%;
+        }
+        100% {
+          background-position: 500%;
+        }
+      }
+
+     
+
+
+
+  h1 {
+    
+    color: white;
+    font-family: 'Righteous', serif;
+    font-size: 12em; 
+    text-shadow: .03em .03em 0 hsla(230,40%,50%,1);
+    text-align: center;
+    }
+    
